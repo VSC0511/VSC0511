@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VSC0511
+- 👀 I’m interested in Data Science and Python
+- 🌱 I’m currently learning Python and Computer science
+- 💞️ I’m looking to collaborate on my program and practice skills
+- 📫 How to reach me: Telegram = @GurzaS0511
