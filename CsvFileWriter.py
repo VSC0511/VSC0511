@@ -72,3 +72,5 @@ class CsvFileWriter:
                     
                     else:
                         csvfile.write(f"{val},")
+
+
